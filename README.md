@@ -1,2 +1,2 @@
 # far-breadcrumb
-A Far Manager plugin for breadcrumb navigation support
+breadcrumb navigation plugin for Far Manager
